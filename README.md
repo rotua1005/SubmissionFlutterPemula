@@ -14,7 +14,7 @@ Project ini adalah Submission dari materi [Belajar Membuat Aplikasi Flutter untu
 </ul>
 
 ### Run Server
-    ```   flutter run ```
+    flutter run
     
 ### Author
 <ul>
